@@ -1,7 +1,7 @@
 """
 Assignment2.py
 
-A program to say Assignment2
+A program that prints Assignment2
 """
 
 if __name__ == '__main__':
